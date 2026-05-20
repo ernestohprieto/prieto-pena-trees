@@ -1,6 +1,6 @@
 # Prieto-Peña Trees: Recursive Generation of trees
 
-**Autor**: [Ernesto H. Prieto Peña, ESE-IPN 1973-1978 ORCID: 0009-0005-1654-4779] [Internet Archive]   https://archive.org/details/Diophantine2026z.pdfpdf 
+**Autor**: [Ernesto H. Prieto Peña, ESE-IPN 1973-1978 ORCID: 0009-0005-1654-4779] [Internet Archive]   https://archive.org/details/Diophantine2026z.pdf
 
 ** Original versión **
 October 2006
