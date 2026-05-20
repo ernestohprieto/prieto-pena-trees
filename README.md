@@ -1,7 +1,7 @@
 # Prieto-Peña Trees: Recursive Generation of Pythagorean n-tuples
 
 **Author**: Ernesto H. Prieto Peña, ESE-IPN 1973-1978  
-**Original idea**: October 2006 [Internet Archive](https://archive.org/details/diophantine_202309)  
+**Original idea**: October 2006 [Internet Archive ]   https://archive.org/details/diophantine-2026z 
 **Formal version**: April 2026 DOI: [10.5281/zenodo.19596333](https://doi.org/10.5281/zenodo.19596333)
 
 ## Method
