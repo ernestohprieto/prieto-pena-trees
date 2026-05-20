@@ -2,7 +2,7 @@
 
 **Autor**: [Ernesto H. Prieto Peña, ESE-IPN 1973-1978 ORCID: 0009-0005-1654-4779] [Internet Archive]   https://archive.org/details/diophantine-2026z
 
-** Original versión **
+**Original versión**
 October 2006
 
 **Formal version**: April 2026 DOI: [10.5281/zenodo.19596333](https://doi.org/10.5281/zenodo.19596333)
