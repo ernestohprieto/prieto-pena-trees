@@ -26,3 +26,5 @@ Prieto Peña, E. H. (2026). *Symmetric Solution to n-tuples in Indeterminate Dio
 
 ## License
 MIT License. Acknowledgment appreciated but not required.
+## Mapas
+[![Visitas por País](https://www.revolvermaps.com/p/current/f/abcde.png)](https://www.revolvermaps.com)
