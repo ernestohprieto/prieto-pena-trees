@@ -14,11 +14,11 @@ For prime seed $x_1 = p$, each choice of square factor $p_k$ yields primitive tr
 Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt{p_n}}$
 
 ## Potential Applications
-1. **Game Dev / Graphics**: Integer-only voxel distances. Remove `sqrt()` in shaders/physics.
-2. **Software Testing**: Generate exact-norm test vectors for linear algebra libraries.
-3. **Lattice Cryptography**: Construct witnesses for zero-knowledge proofs over sum-of-squares.
-4. **Spatial Databases**: Exact-metric indexes in PostGIS without floating-point error.
-5. **Telecom**: n-dimensional QAM constellations with integer energy.
+
+1. **Software Testing**: Generate exact-norm test vectors for linear algebra libraries.
+2. **Lattice Cryptography**: Construct witnesses for zero-knowledge proofs over sum-of-squares.
+
+3. **Telecom**: n-dimensional QAM constellations with integer energy.
 
 ## Citation
 If you use this work in research or product, please cite:  
@@ -27,5 +27,5 @@ Prieto Peña, E. H. (2026). *Symmetric Solution to n-tuples in Indeterminate Dio
 ## License
 MIT License. Acknowledgment appreciated but not required.
 
-## Países
+## Countries
 <a href="https://info.flagcounter.com/U5jW"><img src="https://s01.flagcounter.com/count2/U5jW/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
