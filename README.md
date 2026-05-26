@@ -22,7 +22,8 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 
 ## Citation
 If you use this work in research or product, please cite:  
-Prieto Peña, E. H. (2026). *Symmetric Solution to n-tuples in Indeterminate Diophantine  Equations. Method of Generating Pythagorean n-tuples*. Zenodo. https://doi.org/10.5281/zenodo.19596333
+Prieto Peña, E. H. (2026). *.Solution to the Diophantine Indeterminate Equation: x2 ^1 + x2^2 + x2^3 + · · · + xn^2 = z^2*
+Zenodo. https://doi.org/10.5281/zenodo.19596333
 
 ## License
 MIT License. Acknowledgment appreciated but not required.
