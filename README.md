@@ -18,7 +18,7 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 1. **Software Testing**: Generate exact-norm test vectors for linear algebra libraries.
 2. **Lattice Cryptography**: Construct witnesses for zero-knowledge proofs over sum-of-squares.
 
-3. **Telecom**: n-dimensional QAM constellations with integer energy.
+
 
 ## Citation
 If you use this work in research or product, please cite:  
