@@ -18,6 +18,11 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 1. **Software Testing**: Generate exact-norm test vectors for linear algebra libraries.
 2. **Lattice Cryptography**: Construct witnesses for zero-knowledge proofs over sum-of-squares.
 
+3. **​R1CS Optimization** Flatten constraints in Rank-1 Constraint Systems to reduce arithmetic circuit sizes for Zero-Knowledge compilers.
+
+4. **​Voxel Graphics** Accelerate spatial data partitioning and real-time navigation over Sparse Voxel Octrees (SVO) in 3D rendering engines.
+
+5. **​GIS & Geospatial Indexing** Enhance spatial query speeds and tree structures for processing massive 3D LiDAR point clouds in Geographic Information Systems.
 
 
 ## Citation
