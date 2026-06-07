@@ -24,6 +24,7 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 
 5. **​GIS & Geospatial Indexing** Enhance spatial query speeds and tree structures for processing massive 3D LiDAR point clouds in Geographic Information Systems.
 
+6. **​QAM Constellations** Optimize symbol mapping, boundary detection, and decoding paths in high-order Quadrature Amplitude Modulation grids for telecommunications
 
 ## Citation
 If you use this work in research or product, please cite:  
