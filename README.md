@@ -40,6 +40,28 @@ These potential use cases represent external algorithmic projections and theoret
 If you use this work in research or product, please cite:  
 Prieto Peña, E. H. (2026). *.Solution to the Diophantine Indeterminate Equation: x2 ^1 + x2^2 + x3^2 + · · · + xn^2 = z^2*
 Zenodo. https://doi.org/10.5281/zenodo.19596333
+---
+tags:
+    - Number Theory / Teoría de Números
+    - Diophantine Equations / Ecuaciones Diofánticas
+    - Quadratic Forms / Formas Cuadráticas
+    - Recursive Tree Structures / Árboles Recursivos
+    - Integer-Only Arithmetic / Aritmética de Enteros Puros
+    - Discrete Optimization / Optimización Discreta
+    - Witness Generation Architecture / Arquitectura de Generación de Testigos
+    - Computational Algebra / Álgebra Computacional
+    - Open Science Research / Investigación de Ciencia Abierta
+---
+
+### Keywords & Indexing Terms
+
+For researchers and software engineers analyzing this repository, the mathematical framework aligns with the following fields of study:
+
+* **Primary Domains:** Diophantine Analysis, Indeterminate Quadratic Equations, Tree-Structured Formats, Exact Integer Solutions.
+* 
+* **Computational Applications:** Matrix-Free Optimization, Point-Floating Elimination, Deterministic Witness Generation, High-Precision Arithmetic Optimization.
+* 
+* **Core Concepts:** $x_1^2 + x_2^2 + \dots + x_n^2 = z^2$, Recursive Parameterization, Integer Tuples.
 
 ## License
 MIT License. Acknowledgment appreciated but not required.
