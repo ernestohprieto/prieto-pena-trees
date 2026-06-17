@@ -22,10 +22,10 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 
 4. **​Voxel Graphics** Accelerate spatial data partitioning and real-time navigation over Sparse Voxel Octrees (SVO) in 3D rendering engines.
 
-5. **​GIS & Geospatial Indexing** Enhance spatial query speeds and tree structures for processing massive 3D LiDAR point clouds in Geographic Information Systems.
+5. **​GIS & Geospatial Indexing** Enhance spatial query speeds and tree structures for processing massive 3D LiDAR point clouds in Geographic Información Systems 
 
-6. **​QAM Constellations** Optimize symbol mapping, boundary detection, and decoding paths in high-order Quadrature Amplitude Modulation grids for telecommunications
-
+7. **Spherical codes**: Generate integer points on n-spheres for communication systems with average power constraints.
+  
 ### Disclaimer: Regarding Potential Applications and AI-Generated Explorations
 
 This section outlines the official clarification regarding the potential technical and commercial applications (such as Zero-Knowledge Proofs, cryptography, GIS, and telecommunications) listed within this repository.
