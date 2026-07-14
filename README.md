@@ -25,8 +25,8 @@ Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt
 5. **​GIS & Geospatial Indexing** Enhance spatial query speeds and tree structures for processing massive 3D LiDAR point clouds in Geographic Información Systems 
 
 7. **Spherical codes**: Generate integer points on n-spheres for communication systems with average power constraints.
-8. 
-9. **Noise Mitigation** Provides a precise parametric foundation to protect physical qubits from decoherence and ambient noise.
+
+8. **Noise Mitigation** Provides a precise parametric foundation to protect physical qubits from decoherence and ambient noise.
 
 ### Disclaimer: Regarding Potential Applications and AI-Generated Explorations
 
