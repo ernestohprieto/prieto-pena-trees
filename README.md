@@ -44,6 +44,8 @@ If you use this work in research or product, please cite:
 Prieto Peña, E. H. (2026). *.Solution to the Diophantine Indeterminate Equation: x2 ^1 + x2^2 + x3^2 + · · · + xn^2 = z^2*
 Zenodo. https://doi.org/10.5281/zenodo.19596333
 
+![Visitas:](https://visitor-badge.laobi.icu/badge?page_id=ernestohprieto.prieto pena trees)
+
 
 tags:
     - Number Theory / Teoría de Números
