@@ -46,6 +46,8 @@ Zenodo. https://doi.org/10.5281/zenodo.19596333
 
 ![Visitas:](https://visitor-badge.laobi.icu/badge?page_id=ernestohprieto/prieto-pena-trees)
 
+[![Flag Counter](https://s11.flagcounter.com/count2/ABCD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/coord_1/)](https://flagcounter.com/more/ABCD)
+
 
 ## License
 MIT License. Acknowledgment appreciated but not required.
