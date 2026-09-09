@@ -28,7 +28,7 @@ To read, download, or cite the official publication, please use the registered *
 
 If you reference or build upon this work in your research, please use the following citation:
 
-> Prieto Peña, E. H. *Title of your $n$-tuple research paper*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Prieto Peña, E. H. *Title of your $n$-tuple research paper*. Zenodo. https://doi.org/10.5281/zenodo.19596333 
 
 ## Method
 Recursive algorithm to generate integer solutions for $x_1^2 + ... + x_n^2 = z^2$. 
