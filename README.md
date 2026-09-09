@@ -6,6 +6,29 @@
 October 2006
 
 **Formal version**: April 2026 DOI: [10.5281/zenodo.19596333](https://doi.org/10.5281/zenodo.19596333)
+# Solution and Research on Diophantine $n$-tuples
+
+This repository serves exclusively as a project index and technical record. 
+
+The complete manuscript, algebraic derivations, and official documentation regarding the research on $n$-tuples are centralized and permanently archived on **Zenodo**.
+
+---
+
+### 📄 Access to the Full Paper
+
+To read, download, or cite the official publication, please use the registered **DOI** link:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19596333.svg)](https://doi.org/10.5281/zenodo.19596333)
+
+👉 **[Click here to access the publication on Zenodo](https://doi.org/10.5281/zenodo.19596333)**
+
+---
+
+### 📌 Suggested Citation
+
+If you reference or build upon this work in your research, please use the following citation:
+
+> Prieto Peña, E. H. *Title of your $n$-tuple research paper*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
 
 ## Method
 Recursive algorithm to generate integer solutions for $x_1^2 + ... + x_n^2 = z^2$. 
