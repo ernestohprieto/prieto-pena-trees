@@ -28,7 +28,8 @@ To read, download, or cite the official publication, please use the registered *
 
 If you reference or build upon this work in your research, please use the following citation:
 
-> Prieto Peña, E. H. *Title of your $n$-tuple research paper*. Zenodo. https://doi.org/10.5281/zenodo.19596333 
+Zenodo. 
+> Prieto Peña, E. H. *.Solution to the Diophantine Indeterminate Equation: x2 ^1 + x2^2 + x3^2 + · · · + xn^2 = z^2*. * Zenodo. https://doi.org/10.5281/zenodo.19596333 
 
 ## Method
 Recursive algorithm to generate integer solutions for $x_1^2 + ... + x_n^2 = z^2$. 
