@@ -36,6 +36,7 @@ Recursive algorithm to generate integer solutions for $x_1^2 + ... + x_n^2 = z^2
 For prime seed $x_1 = p$, each choice of square factor $p_k$ yields primitive trees.
 
 Core formula: $Y = \frac{x^2 - p_n}{2\sqrt{p_n}}$,  $Z = \frac{x^2 + p_n}{2\sqrt{p_n}}$
+![Figure 1](imagen1.png)
 
 ## Potential Applications
 
